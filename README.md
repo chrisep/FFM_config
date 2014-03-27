@@ -10,6 +10,7 @@ Setup for Ramps 1.4
 
 Endstops on Signal and ground pin.
 X and Y endstops min.
+
 Imortant! Z endstop is on Zmax.
 
 Fan is hooked up to D9.
